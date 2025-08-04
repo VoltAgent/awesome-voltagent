@@ -98,13 +98,15 @@ Click the [VoltAgent Console](https://console.voltagent.dev) link in your termin
 ---
 
 
-# Getting Started
+
+
+# Documentation
+
+## Getting Started
 - [Overview](https://voltagent.dev/docs/) - Introduction to VoltAgent framework
 - [Quick Start](https://voltagent.dev/docs/getting-started/quick-start/) - Get up and running in minutes
 - [MCP Docs Server](https://voltagent.dev/docs/getting-started/mcp-docs-server/) - Model Context Protocol documentation server
 
-
-# Documentation
 
 ## Agents
 - [Overview](https://voltagent.dev/docs/agents/overview/) - Understanding agents in VoltAgent
@@ -178,10 +180,7 @@ Click the [VoltAgent Console](https://console.voltagent.dev) link in your termin
 ## Utils
 - [Create Prompt](https://voltagent.dev/docs/utils/create-prompt/) - Prompt utilities
 
-## Community
-- [Overview](https://voltagent.dev/docs/community/overview/) - Join the community
-- [Contributing](https://voltagent.dev/docs/community/contributing/) - Contribution guidelines
-- [License](https://voltagent.dev/docs/community/licence/) - License information
+
 
 
 # Examples
@@ -244,7 +243,7 @@ Click the [VoltAgent Console](https://console.voltagent.dev) link in your termin
 # VoltOps - LLM Observability & Monitoring
 
 ## Core Concepts
-- [Overview](https://voltagent.dev/voltops-llm-observability-docs/overview/) - Introduction to VoltOps observability platform
+- [Overview](https://voltagent.dev/voltops-llm-observability-docs/) - Introduction to VoltOps observability platform
 - [Why Observability](https://voltagent.dev/voltops-llm-observability-docs/why/) - Understanding the importance of LLM monitoring with VoltOps
 - [Concepts](https://voltagent.dev/voltops-llm-observability-docs/concept/) - Key VoltOps observability concepts
 - [LLM Usage & Costs](https://voltagent.dev/voltops-llm-observability-docs/llm-usage-and-costs/) - Track LLM usage and manage costs with VoltOps
@@ -318,11 +317,6 @@ Click the [VoltAgent Console](https://console.voltagent.dev) link in your termin
 - [Discord Community](https://s.voltagent.dev/discord) - Get help and share projects
 - [GitHub Discussions](https://github.com/VoltAgent/voltagent/discussions) - Q&A and feature requests
 - [Twitter/X](https://twitter.com/voltagent_dev) - Latest news and updates
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/voltagent) - Community Q&A
+- [Reddit](https://www.reddit.com/user/voltagent_dev/)
+- [Linkedin](https://www.linkedin.com/company/voltagent)
 
-
-
-## Contributing
-- [Contribution Guide](https://github.com/VoltAgent/voltagent/blob/main/CONTRIBUTING.md) - How to contribute
-- [Development Setup](https://voltagent.dev/docs/contributing/setup/) - Set up your dev environment
-- [Code of Conduct](https://github.com/VoltAgent/voltagent/blob/main/CODE_OF_CONDUCT.md) - Community guidelines
